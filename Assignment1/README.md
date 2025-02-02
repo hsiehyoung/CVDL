@@ -4,7 +4,7 @@
 
 ## Usage
 * Question 1 ~ 3 (opencv)
-  * ```python3 start.py```
+  * ```python start.py```
 
 ## Environment
 * python 3.9
